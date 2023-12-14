@@ -1,0 +1,23 @@
+body {
+    background-image: url(/assets/img/caraibes1.jpg);
+
+}
+
+nav {}
+
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+}
+
+i {
+    font-size: 5rem;
+
+}
