@@ -1,0 +1,78 @@
+header {
+    background-color: #75c9c8;
+}
+
+#nav1 {
+    display: flex;
+    margin: 0 12%;
+}
+
+#phoenix {
+    width: 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+}
+
+span {
+    color: rgba(0, 0, 0, 0.579);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#boubou {
+    width: 80%;
+    height: 150px;
+    padding: 7%;
+}
+
+#colle {
+    background-color: #75c9c8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: #75c9c8;
+    height: 2rem;
+}
+
+ul {
+    text-align: center;
+    padding: 2px;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    color: #787878;
+    padding: 5px;
+    
+}
